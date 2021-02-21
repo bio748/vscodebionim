@@ -1,1 +1,430 @@
 
+Skip to content
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+
+bio748
+/
+Termux-Color
+forked from bio748/vscodebionim
+Code
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Termux-vscodebionim
+bio748 Add files via upload
+ 1 contributor
+clear
+h="\033[32;1m"
+m="\033[31;1m"
+k="\033[33;1m"
+b="\033[34;1m"
+c="\033[35;1m"
+pu="\033[36;1m"
+p="\033[37;1m"
+sleep 1
+echo
+echo "${m}  SAUNA KAWAJI LITE CYBER TEAM NLC TEAM"
+echo "${pu} ╔═════════════════════════════════╗"
+echo "${h}   ▀▀█▀▀ █▀▀▀ █▀▀█ █▀▄▀█ █░▒█ ▀▄▒▄▀ "
+echo "${p}   ░▒█░░ █▀▀▀ █▄▄▀ █▒█▒█ █░▒█ ░▒█░░ "
+echo "${h}   ░▒█░░ █▄▄▄ █░▒█ █░░▒█ ▀▄▄▀ ▄▀▒▀▄ "
+echo "${pu} ╚═════════════════════════════════╝ "
+echo "${p}    CREATED BY ME ${h}Bionim ${p}(${m}bio748${p})"
+echo
+echo "${m} BOOT MENU BELOW"
+echo
+echo   "${h}╔═══╗ ${m}╔════════════════════╗"
+echo   "${h}║${p} 1${h} ║ ${m}║ ${k}100k Instagram followers 2020 ${h}1*${m}║"
+echo   "${h}╚═══╝ ${m}╚════════════════════╝"
+echo   "${h}╔═══╗ ${m}╔════════════════════╗"
+echo   "${h}║${p} 2${h} ║ ${m}║ ${k}50k Instagram followers  2020 ${h}2*  ${m}║"
+echo   "${h}╚═══╝ ${m}╚════════════════════╝"
+echo   "${h}╔═══╗ ${m}╔════════════════════╗"
+echo   "${h}║${p} 3${h} ║ ${m}║ ${k}CHECK TOOL UPDATE ${h} ${m}║"
+echo   "${h}╚═══╝ ${m}╚════════════════════╝"
+echo   "${h}╔═══╗ ${m}╔════════════════════╗"
+echo   "${h}║${p} 4${h} ║ ${m}║ ${k}CONTACT ME ${h} NAJEEB${h} ${m}    ║"
+echo   "${h}╚═══╝ ${m}╚════════════════════╝"
+echo   "${h}╔═══╗ ${m}╔════════════════════╗"
+echo   "${h}║${p} 5${h} ║ ${m}║ ${k}JOIN TO OUR ${h}TEAM${h} ${m}  ║"
+echo   "${h}╚═══╝ ${m}╚════════════════════╝"
+echo
+echo "${m}╔═${p} YOUR CHOICE?${m} ═"
+read -p  "╚════════════════➢➢ " pil
+
+if [ $pil = '1' ]
+then
+cd
+cd ..
+cd usr/etc
+rm -rf bash.bashrc
+cd
+cd vscodebionim
+cd Tool1
+cp bash.bashrc /data/data/com.termux/files/usr/etc
+sleep 2
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h} ${m}  ║"
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+echo   "${h}following${h}bio_nim${m}on${m}Instagram{h
+
+if [ $pil = '2' ]
+then
+cd
+cd ..
+cd usr/etc
+rm -rf bash.bashrc
+cd
+cd Termux-Color
+cd Tool1
+cd Tool2
+cp bash.bashrc /data/data/com.termux/files/usr/etc
+sleep 2
+
+if [ $pil = '3' ]
+then
+cd
+rm -rf Termux-Color
+apt update 
+apt upgrade 
+apt install git 
+apt install bash 
+apt install python 
+apt install git 
+git clone https://github.com/bio748/vscodebionim
+cd Termux-Color
+chmod +x Boosting 10k.sh
+sh Boosting 10k.sh
+sleep 3
+echo "${pu} YOU ARE NOW UPDATED"
+fi
+
+if [ $pil = '4' ]
+then
+cd
+cd Termux-instagram-followers
+cd Tool1
+sh about.sh
+sleep 2
+fi
+
+if [ $pil = '5' ]
+then
+echo ${h}"YOUR BROWSER WILL AUTO OPEN AND TAKE YOU TO OUR TEAM"
+sleep 2
+
+fi
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
