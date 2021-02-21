@@ -404,7 +404,6 @@ fi
 if [ $pil = '4' ]
 then
 cd
-cd Termux-instagram-followers
 cd Tool1
 sh about.sh
 sleep 2
