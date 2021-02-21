@@ -12,6 +12,6 @@
  # apt install python 
  # apt install git 
  # git clone https://github.com/bio748/vscodebionim
- # cd Termux-Color
+ # cd Boosting 10k
  # chmod +x Boosting 10k.sh
  # sh Boosting 10k.sh
