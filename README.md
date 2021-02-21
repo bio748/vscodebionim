@@ -4,7 +4,7 @@
 
 
 ### Installation
-    # apt update 
+    #apt update 
     # apt upgrade 
     # apt install git 
     # apt install bash 
